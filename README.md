@@ -20,7 +20,7 @@ I get said that I am kind of nerdy. Which totally I agree. I am a huge fan of Dr
 
 I had the honor of being the main character on [this video](https://www.youtube.com/watch?v=FIES2k-RGIM)
 
-This [performance](https://x.com/RoronoaCharles/status/1948584386250899687?s=20) is as well something I am very proud of.
+This [performance](https://x.com/RoronoaCharles/status/1948584386250899687) is as well something I am very proud of.
 
 I recently attended an online course about [Clean Architecture](https://xurxodev.com/curso-refactoring-clean-architecture-react/) from [xurxodev](https://github.com/xurxodev) and really loved it.
 Now I am willing to apply the learnings on some pet project.
