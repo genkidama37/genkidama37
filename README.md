@@ -18,12 +18,6 @@ I am quite good at SQL due to a position as Data Management Technician and recen
 
 Check on my [LinkedIn](https://www.linkedin.com/in/juan-carlos-sanchez-recio-24b359241/) profile to get more detail.
 
-I just started a blog about my experiments: The **[Hyperbolic Time Workshop](https://htw.hashnode.dev/)**.
-I also plan to run a [blog](https://dev.to/genkidama37) about my adventure as a software developer and open source enthusiast.
-
-I find that the world of IT technology is so awesome!! There is plenty to experiment and learn. Sometimes is like a black hole🌀
-where you get and is not always to come out.
-
 When I am not tackling IT stuff I am spending time with friends(ocasionally playing chess♟️), cooking delightful meals 🧆 or boxing 🥊 to get fit and let off steam. Not to mention that I like to sing whenever I feel like and enjoy going to karaoke🎤.
 
 I get said that I am kind of nerdy. Which totally I agree. I am a huge fan of Dragon Ball anime and One Piece both manga and anime. You can tell that just checking my desktop backgrounds 😂.
