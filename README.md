@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hi there 👋 
 
 ![That's me](./MeOnGitHub.JPG)
 
 I am Carlos, aka genkidama37. I am on a journey exploring trails of life-long learning. I would describe myself as a curious enthusiast. I like to try new things. Experiment, break things, learn from it.
 
-I am a software developer at the moment looking for a new job (aka new challenges).
+I am a software developer. At the moment I'm looking for a new job (aka new challenges).
 
 I am quite good at SQL due to a position as Data Management Technician and recently worked as Full Stack Developer with focus on 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,6 +17,8 @@ I am quite good at SQL due to a position as Data Management Technician and recen
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 Check on my [LinkedIn](https://www.linkedin.com/in/juan-carlos-sanchez-recio-24b359241/) profile to get more detail.
+
+I find that the world of IT technology is so awesome!! There is plenty to experiment and learn. Sometimes is like a black hole🌀 where you get and is not always to come out.
 
 When I am not tackling IT stuff I am spending time with friends(ocasionally playing chess♟️), cooking delightful meals 🧆 or boxing 🥊 to get fit and let off steam. Not to mention that I like to sing whenever I feel like and enjoy going to karaoke🎤.
 
